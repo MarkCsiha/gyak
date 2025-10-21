@@ -1,0 +1,14 @@
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\bin\Debug\net9.0\CSHARPLINQ25093003.exe
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\bin\Debug\net9.0\CSHARPLINQ25093003.deps.json
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\bin\Debug\net9.0\CSHARPLINQ25093003.runtimeconfig.json
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\bin\Debug\net9.0\CSHARPLINQ25093003.dll
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\bin\Debug\net9.0\CSHARPLINQ25093003.pdb
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\CSHARPLINQ25093003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\CSHARPLINQ25093003.AssemblyInfoInputs.cache
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\CSHARPLINQ25093003.AssemblyInfo.cs
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\CSHARPLINQ25093003.csproj.CoreCompileInputs.cache
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\CSHARPLINQ25093003.dll
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\refint\CSHARPLINQ25093003.dll
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\CSHARPLINQ25093003.pdb
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\CSHARPLINQ25093003.genruntimeconfig.cache
+C:\Users\csiha.mark\Downloads\CSHARPLINQ250930-master (4)\CSHARPLINQ250930-master\obj\Debug\net9.0\ref\CSHARPLINQ25093003.dll
